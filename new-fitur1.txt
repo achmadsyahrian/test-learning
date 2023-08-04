@@ -9,3 +9,4 @@ NEW FITUR BRANCH TEST
 
 - add login dark
 - change form register
+- fix bug auth
