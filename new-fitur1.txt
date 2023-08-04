@@ -6,3 +6,6 @@ NEW FITUR BRANCH TEST
 - Why do we use it / NEW
 - Where does it come from / NEW
 - There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+
+- add login dark
+- change form register
