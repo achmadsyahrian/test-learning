@@ -4,5 +4,6 @@ NEW FITUR BRANCH TEST
 - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout
 - making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search
 - Why do we use it / NEW
-- Where does it come from / NEW
-- There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+
+- fix login form
+- update change password
