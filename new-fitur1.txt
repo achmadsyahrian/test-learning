@@ -5,5 +5,9 @@ NEW FITUR BRANCH TEST
 - making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search
 - Why do we use it / NEW
 
+
 - fix login form
-- update change password
+
+- add login dark
+- fix bug auth
+
